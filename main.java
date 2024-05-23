@@ -30,7 +30,7 @@ public class Main {
             System.out.println(_mult(nums))
 
         } catch (IOException e) {
-            System.out.println("Ошибка считывания файла, попробуйте снова!");
+            System.out.println("Ошибка при поптыке обработать числа из файла, попробуйте снова!");
         }
     }
     
