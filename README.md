@@ -1,10 +1,13 @@
 # HSE_C1_Technology_of_programming_TZ2
+![Java CI](https://github.com/mnedo/HSE_C1_Technology_of_programming_TZ2/actions/workflows/ci.yml/badge.svg)
+
 
 ## Как зпускать
 
 * Обычный запуск
   Необзодимо в main.java (src/main/java/main.java) указать имя файла, откуда хотим сичтать числа, после программа выведет min, max, sum и mult соответственно
 * Про тесты
+  Созданый тесты для проверки вывода, функций и больших чисел
 
 
 ## Техническое задание
